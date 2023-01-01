@@ -7,7 +7,7 @@ Soruları cevaplamak için [GitHub docs](https://docs.github.com/en)'u kullanabi
 Eğer aradığınız soruların cevapları GitHub docs'ta yok ise Google'lama becerileriniz size yardımcı olacaktır :)
 
 1. Git nedir?
-		Versiyon kontrol sistemidir.
+	- Versiyon kontrol sistemidir.
 2. Git ile GitHub arasında ne fark var?
 	Git bir versiyon sistemiyken, github ise git ile kullanılan projelerin bulunduğu facebook gibi ortamdır
 3. Neden bir branch oluşturuyoruz?
